@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="user.core" />
         <module name="user.query.api" />
-        <module name="user.cmd.api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

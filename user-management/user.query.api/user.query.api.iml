@@ -54,6 +54,56 @@
     <orderEntry type="library" name="Maven: io.micrometer:micrometer-observation:1.14.0-M1" level="project" />
     <orderEntry type="library" name="Maven: io.micrometer:micrometer-commons:1.14.0-M1" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:6.2.0-M6" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-spring-boot-starter:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-spring-boot-autoconfigure:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-server-connector:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: io.grpc:grpc-protobuf:1.22.1" level="project" />
+    <orderEntry type="library" name="Maven: io.grpc:grpc-api:1.22.1" level="project" />
+    <orderEntry type="library" name="Maven: io.grpc:grpc-context:1.22.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.3.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.17" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.7.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:26.0-android" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-compat-qual:2.5.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.api.grpc:proto-google-common-protos:1.12.0" level="project" />
+    <orderEntry type="library" name="Maven: io.grpc:grpc-protobuf-lite:1.22.1" level="project" />
+    <orderEntry type="library" name="Maven: io.grpc:grpc-stub:1.22.1" level="project" />
+    <orderEntry type="library" name="Maven: io.grpc:grpc-netty:1.22.1" level="project" />
+    <orderEntry type="library" name="Maven: io.grpc:grpc-core:1.22.1" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.android:annotations:4.1.1.4" level="project" />
+    <orderEntry type="library" name="Maven: io.perfmark:perfmark-api:0.16.0" level="project" />
+    <orderEntry type="library" name="Maven: io.opencensus:opencensus-api:0.21.0" level="project" />
+    <orderEntry type="library" name="Maven: io.opencensus:opencensus-contrib-grpc-metrics:0.21.0" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http2:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-common:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-buffer:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-transport-native-unix-common:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-http:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-handler-proxy:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-codec-socks:4.1.111.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-tcnative-boringssl-static:2.0.65.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-tcnative-classes:2.0.65.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-tcnative-boringssl-static:linux-x86_64:2.0.65.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-tcnative-boringssl-static:linux-aarch_64:2.0.65.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-tcnative-boringssl-static:osx-x86_64:2.0.65.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-tcnative-boringssl-static:osx-aarch_64:2.0.65.Final" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-tcnative-boringssl-static:windows-x86_64:2.0.65.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-spring:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-configuration:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-disruptor:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: com.lmax:disruptor:3.4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-eventsourcing:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-modelling:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: org.axonframework:axon-messaging:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: com.thoughtworks.xstream:xstream:1.4.11.1" level="project" />
+    <orderEntry type="library" name="Maven: xpp3:xpp3:1.1.4c" level="project" />
     <orderEntry type="library" name="Maven: org.projectlombok:lombok:1.18.34" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-starter-test:3.4.0-SNAPSHOT" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework.boot:spring-boot-test:3.4.0-SNAPSHOT" level="project" />
